@@ -15,7 +15,7 @@ Este proyecto es una aplicación simple de lista de tareas creada con JavaScript
 
 ¡Echa un vistazo a algunas capturas de pantalla de la aplicación!
 
-(https://github.com/oroboruos02/TodoList_JSVanilla/blob/main/Screenshot-todo_vanilla.png))
+![Impresion de Pantalla](https://github.com/oroboruos02/TodoList_JSVanilla/blob/main/Screenshot-todo_vanilla.png)
 
 ## Cómo Usar
 
