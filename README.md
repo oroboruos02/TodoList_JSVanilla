@@ -30,7 +30,7 @@ Este proyecto es una aplicación simple de lista de tareas creada con JavaScript
 3. ¡Empieza a gestionar tus tareas!
 
 4. Echale un vistazo a la aplicacion directamente de GitHub Pages en el siguiente enlace:
-   [Página Principal del Repositorio](https://oroboruos02.github.io/TodoList_JSVanilla/)
+   ![Página Principal del Repositorio](https://oroboruos02.github.io/TodoList_JSVanilla/)
 
 ## Contribución
 
